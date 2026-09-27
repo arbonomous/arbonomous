@@ -1,6 +1,6 @@
-## [SidePiece - free macOS beta, download here](https://sidepiece.onrender.com)
+# arbonomous
 
-SidePiece docks a slim Telegram panel to the edge of your Mac screen. Touch the edge and your chats slide out; move away and it tucks itself back in. Unofficial, free during the beta.
+Building tools and experiments.
 
 ### Projects
 
